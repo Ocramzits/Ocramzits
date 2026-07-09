@@ -1,8 +1,3 @@
-<div align="center">
-  <!-- GIF do Topo com Link Direto de Mídia -->
-<img src="https://i.giphy.com/Zp5KTPCpusdBcaAtZ1.gif" width="50" alt="Coding GIF" />
-
-  <br><br>
 
   <!-- Badges de Redes Sociais -->
   <p align="center">
