@@ -23,7 +23,7 @@
 ## 🛠️ Linguagens e Ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=arch,bash,vscode,c,python,docker,postgres,cassandra,markdown" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=arch,bash,vscode,git,github,c,python,docker,postgres,cassandra,markdown" alt="Tech Stack" />
 </p>
 
 ## 🔥 Meus Status
