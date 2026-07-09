@@ -19,9 +19,9 @@
   <h1>Bem-vindo 👋</h1>
 </div>
 
-## 🧑‍💻 Sobre mim
+## 🧑🏻‍💻 Sobre mim
 
-* 🧑🏻‍💻 **Atualmente cursando Sistemas de Informação**
+* 📚 **Atualmente cursando Sistemas de Informação**
 * 🏢 **Universidade Federal do Piauí**
 
 ## 🛠️ Linguagens e Ferramentas
