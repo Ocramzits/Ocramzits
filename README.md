@@ -1,4 +1,8 @@
+<div align="center">
+  <!-- GIF do Topo com Link Direto de Mídia -->
+  <img src="./sonic.gif" width="380" alt="Coding GIF" />
 
+  <br><br>
   <!-- Badges de Redes Sociais -->
   <p align="center">
     <a href="https://www.instagram.com/imarco.a/" target="_blank">
