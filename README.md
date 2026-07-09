@@ -1,27 +1,22 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXA0aG54emZqcmplZDJ0ZXpzdWV1dzdrYmY3ZnR5c3pwbHJtaGhuciZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/Zp5KTPCpusdBcaAtZ1/giphy.gif" width="380" alt="Coding GIF Component"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXA0aG54emZqcmplZDJ0ZXpzdWV1dzdrYmY3ZnR5c3pwbHJtaGhuciZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/Zp5KTPCpusdBcaAtZ1/giphy.gif" width="240" alt="Coding GIF Component"/>
 
   <br> <!-- Badges de Redes Sociais --> <p align="center"> <a href="https://www.instagram.com/imarco.a/" target="_blank"> <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"> </a> <a href="https://discord.com/users/ocramtm" target="_blank"> <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"> </a> <a href="mailto:marcoantoniorezendecruz2@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> </p>
 
   <h1>Bem-vindo 👋</h1>
 </div>
 
----
-
 ##  Sobre mim
 
 - 🧑🏻‍💻 **Atualmente cursando Sistemas de Informação**
 - 🏢 **Universidade Federal do Piauí**
 
----
 
 ## 🛠️ Linguagens e Ferramentas
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=arch,bash,vscode,c,python,docker,postgres,cassandra,markdown" alt="Tech Stack" />
 </p>
-
----
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ocramzits/Ocramzits/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
