@@ -37,13 +37,15 @@
 
 ---
 
-## 🔥 My Stats
+---
+
+## 🔥 Meus status
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ocramzits&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <!-- Link do Jogo da Cobra corrigido para puxar da branch que a Action vai criar -->
-  <img src="https://raw.githubusercontent.com/Ocramzits/Ocramzits/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <!-- Alterado de ...snake.svg para ...snake-dark.svg -->
+  <img src="https://raw.githubusercontent.com/Ocramzits/Ocramzits/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
