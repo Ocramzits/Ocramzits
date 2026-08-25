@@ -1,9 +1,7 @@
 <div align="center">
-  <!-- GIF do Topo com Link Direto de Mídia -->
   <img src="./sonic.gif" width="380" alt="Coding GIF" />
 
   <br><br>
-  <!-- Badges de Redes Sociais -->
   <p align="center">
     <a href="https://www.instagram.com/imarco.a/" target="_blank">
       <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
@@ -16,21 +14,21 @@
     </a>
   </p>
 
-  <h1>Bem-vindo 👋</h1>
+  <h2>Bem-vindo 👋</h2>
 </div>
 
-## 🧑🏻‍💻 Sobre mim
+## Sobre mim
 
-* 📚 **Atualmente cursando Sistemas de Informação**
+* 📚 **Atualmente cursando Sistemas de Informação, 4° Período**
 * 🏢 **Universidade Federal do Piauí**
 
-## 🛠️ Linguagens e Ferramentas
+## Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=arch,bash,vscode,git,github,c,python,docker,postgres,markdown" alt="Tech Stack" />
 </p>
 
-## 🔥 Meus Status
+<hr>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ocramzits/Ocramzits/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
