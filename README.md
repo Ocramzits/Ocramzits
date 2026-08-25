@@ -6,7 +6,7 @@
 ## Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=arch,bash,vscode,git,github,c,python,docker,postgres,markdown" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=git,github,c,python,docker,postgres,markdown" alt="Tech Stack" />
 </p>
 
 <p align="center">
