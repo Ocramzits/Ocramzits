@@ -13,8 +13,6 @@
       <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
   </p>
-
-  <h2>Bem-vindo 👋</h2>
 </div>
 
 ## Sobre mim
